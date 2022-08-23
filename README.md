@@ -1,2 +1,2 @@
-# muslim_prayers_plugins
-Plugins for WordPress 
+# muslim_prayers_times_plugins
+#Plugins for WordPress 
