@@ -1,2 +1,1 @@
-# muslim_prayers_times_plugins
-#Plugins for WordPress 
+# Learning Python 3
